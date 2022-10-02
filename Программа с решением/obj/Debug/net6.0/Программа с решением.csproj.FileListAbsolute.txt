@@ -1,0 +1,15 @@
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\bin\Debug\net6.0\Программа с решением.exe
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\bin\Debug\net6.0\Программа с решением.deps.json
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\bin\Debug\net6.0\Программа с решением.runtimeconfig.json
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\bin\Debug\net6.0\Программа с решением.dll
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\bin\Debug\net6.0\Программа с решением.pdb
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\obj\Debug\net6.0\Программа с решением.csproj.AssemblyReference.cache
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\obj\Debug\net6.0\Программа с решением.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\obj\Debug\net6.0\Программа с решением.AssemblyInfoInputs.cache
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\obj\Debug\net6.0\Программа с решением.AssemblyInfo.cs
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\obj\Debug\net6.0\Программа с решением.csproj.CoreCompileInputs.cache
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\obj\Debug\net6.0\Программа с решением.dll
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\obj\Debug\net6.0\refint\Программа с решением.dll
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\obj\Debug\net6.0\Программа с решением.pdb
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\obj\Debug\net6.0\Программа с решением.genruntimeconfig.cache
+C:\Users\lidia\Desktop\Итоговая работа\Программа с решением\obj\Debug\net6.0\ref\Программа с решением.dll
